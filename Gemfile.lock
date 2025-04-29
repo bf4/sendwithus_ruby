@@ -16,7 +16,7 @@ GEM
     mocha (0.10.5)
       metaclass (~> 0.0.1)
     multi_json (1.5.0)
-    rake (10.0.3)
+    rake (12.3.3)
     shoulda (3.3.2)
       shoulda-context (~> 1.0.1)
       shoulda-matchers (~> 1.4.1)
